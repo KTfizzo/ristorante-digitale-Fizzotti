@@ -1,0 +1,15 @@
+#all {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffd485;
+}
+
+.titolo {
+    text-align: center;
+    text-color: #ff0000;
+}
+
+.menu {
+    text-align: center;
+}
